@@ -1,0 +1,23 @@
+CSCE A101, Assignment 4
+
+Popularity Contest
+
+(3/3) Read name files & parse each line
+	close file handle using .close() or 'with'
+(2/2) Store data in boy & girl lists of tuples (list of class objects OK for bonus)
+(3/3) User interface that repeatedly generates questions until the user exits the game (no 'break' or 'continue' statements, no 'while True:')
+(1/1) Prints percentage of questions answered correctly
+(1/1) Documentation & style	
+	e.g. proper indentation, good variable names with proper capitalization
+
+/10
+
+
+
+Bonus:
+
+(0/2) Correctly defined class in a separate file that stores rank, name & number of births
+(0/1) Class module imported into the main script file
+(0/2) Store data in boy & girl lists of class objects
+
+/5
