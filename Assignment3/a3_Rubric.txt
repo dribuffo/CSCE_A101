@@ -1,0 +1,15 @@
+CSCE A101, Assignment 3
+
+Wordle Help
+
+(1/1) Correct reading of words.txt file using relative pathnames (not hardcoded)
+(2/2) Extract just the 5 letter words
+(2/2) Calculate the frequency distribution of the letters and print values for 'a', 's', and 'q'
+(2/2) Calculate word scores from the letter frequencies
+(2/2) Print 5 words that maximize the number of high-frequency letters
+(1/1) Documentation & style	
+	e.g. proper indentation, good variable names with proper capitalization
+
+(0/3) Bonus: Print 5 words with unique characters that maximize the number of high-frequency letters. Improved/attractive output, GUI etc.
+
+Total score: /10
